@@ -9,8 +9,8 @@
 0 12 -51
 17 -12 -1
     </pre>
-<br> You can access the <code>output.txt</code> by clicking the link below:</p>
-<a href="https://github.com/JoeyNT/RowSummationProgram/blob/main/numbers.txt" target="input">Download input.txt File</a> 
+<br> You can access the <code>numbers.txt</code> by clicking the link below:</p>
+<a href="https://github.com/JoeyNT/RowSummationProgram/blob/main/numbers.txt" target="numbers">Download numbers.txt File</a> 
   <h2>Output File (output.txt):</h2>
     <pre>
 63
